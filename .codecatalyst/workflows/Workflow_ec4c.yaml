@@ -8,7 +8,7 @@ Triggers:
     Branches:
       - test%test
 
-# Required - Define action configurations.
+# Required - Define action configurations. test
 Actions:
   Build_b6:
     # Identifies the action. Do not modify this value.
