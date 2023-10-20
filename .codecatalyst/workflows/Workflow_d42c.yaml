@@ -1,0 +1,11 @@
+Name: Workflow_d42c
+SchemaVersion: "1.0"
+
+# Optional - Set automatic triggers.
+Triggers:
+  - Type: Push
+    Branches:
+      - test%test
+
+# Required - Define action configurations.
+Actions:
